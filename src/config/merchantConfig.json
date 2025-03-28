@@ -1,0 +1,16 @@
+{
+    "logo": {
+    "dark": "https://pub-e86d1bd88e684c09b6853bb5eaa397e1.r2.dev/MIDQTT0002Dark.svg",
+    "light": "https://pub-e86d1bd88e684c09b6853bb5eaa397e1.r2.dev/MIDQTT0002Light.svg"
+    },
+    "contactPreference": {
+      "type": "telegram",
+      "qrCode": "https://pub-e86d1bd88e684c09b6853bb5eaa397e1.r2.dev/MIDQTT0002Telegram.svg",
+      "url": "t.me/diliprk"
+    },
+    "homepageUrl": "https://quanttradertools.web.app",
+    "preferred_payment_providers": {
+      "USD": ["paypal","wise"],
+      "INR": ["upi"]
+    }
+  }
